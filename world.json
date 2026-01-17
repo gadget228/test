@@ -1,0 +1,17 @@
+{
+  "title": "Exelon V2",
+  "id": "exelon-v2",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "systemVersion": "5.2.4",
+  "lastPlayed": "Fri Jan 16 2026 20:38:13 GMT+0000 (Greenwich Mean Time)",
+  "playtime": 82703,
+  "safeMode": false,
+  "description": "",
+  "flags": {}
+}
